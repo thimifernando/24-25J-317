@@ -80,7 +80,9 @@ Mobile App: Users may monitor greenhouse operations while on the go, access the 
 remotely, and receive notifications with a complimentary mobile application.
 
 #Architectural Diagram
-![diagram](https://github.com/user-attachments/assets/fd9cb02c-d308-4eac-9d87-c0af956e5d98)
+
+![system](https://github.com/user-attachments/assets/b67c2d34-85d5-402f-8b0f-ce90337b0dc5)
+
 
 
 
