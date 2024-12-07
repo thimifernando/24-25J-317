@@ -81,7 +81,7 @@ remotely, and receive notifications with a complimentary mobile application.
 
 #Architectural Diagram
 
-![system](https://github.com/user-attachments/assets/b67c2d34-85d5-402f-8b0f-ce90337b0dc5)
+![WhatsApp Image 2024-12-07 at 10 35 16 PM](https://github.com/user-attachments/assets/88cd55be-2e64-4fd0-afc5-48a755f85cc4)
 
 
 
