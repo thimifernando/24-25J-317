@@ -1,0 +1,11 @@
+uvicorn main:app --host localhost --port 8000 --reload
+python -m uvicorn main:app --host localhost --port 8000 --reload
+
+http://localhost:8000/docs#/
+
+To Run on Mac 
+
+python3 -m venv venv                                  
+source venv/bin/activate  
+pip install fastapi uvicorn tensorflow pillow numpy  
+pip install python-multipart   
