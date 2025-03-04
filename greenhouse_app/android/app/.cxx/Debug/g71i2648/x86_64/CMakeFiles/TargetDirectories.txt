@@ -1,0 +1,2 @@
+D:/greenhouse_app/24-25J-317/greenhouse_app/android/app/.cxx/Debug/g71i2648/x86_64/CMakeFiles/edit_cache.dir
+D:/greenhouse_app/24-25J-317/greenhouse_app/android/app/.cxx/Debug/g71i2648/x86_64/CMakeFiles/rebuild_cache.dir
